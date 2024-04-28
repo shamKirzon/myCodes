@@ -1,6 +1,6 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+AKO SI RHENZZZZZZZ CRUSH KO SI
 
 public class DynamicPoly  {
     public static void main(String[] args) throws Exception {
