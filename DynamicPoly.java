@@ -12,6 +12,8 @@ public class DynamicPoly  {
      System.out.println("Choose your gender (1 = Male)====(2 = Female)");
      int ans = Integer.parseInt(reader.readLine());
 
+     System.out.println("ashdayhdyahayhahhdhyhadyhayhasyh");
+
      if (ans==1) {
         gender = new Male();
         gender.speak();
