@@ -24,6 +24,8 @@ public class DynamicPoly  {
         gender = new Gender();
         gender.speak();
      }
+
+     sas TITEEEEE
      
      
     }
@@ -41,6 +43,9 @@ public class DynamicPoly  {
         }
     }
 
+
+
+    
 
     public static class Female extends Gender{
         void speak(){
